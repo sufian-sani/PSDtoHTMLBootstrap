@@ -176,6 +176,11 @@ body {
     #footer .right img {
       padding: 25px 5px 0px 0px; }
 
-@media (max-width: 767px) {
-  #showcase {
-    display: none; } }
+@media (max-width: 767px){
+	#showcase{
+		display: none;
+	}
+	.overlay{
+		left:17%;
+	}
+}
